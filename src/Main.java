@@ -65,5 +65,6 @@ public class Main {
         }
 
         System.out.println(hogwarts);
+        System.out.println("HELLO WORLD");
     }
 }
